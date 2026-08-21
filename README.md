@@ -1,56 +1,126 @@
-# Tushar Rao
+# 🍷 Tushar Rao
 
-Welcome to my repository. This repository contains my academic profile, technical skills, certifications, and project experience.
+### 💻 Computer Science & Engineering Student | ☕ Java Developer | ☁️ Cloud & ML Enthusiast
 
-## About Me
-
-I am a highly motivated Computer Science & Engineering student pursuing a Bachelor of Engineering at **Karavali Institute of Technology**. I am currently in my **7th semester** with a CGPA of approximately **7.5**.
-
-I am actively expanding my knowledge in **AWS Cloud Computing** and have a strong interest in **Machine Learning**. I am particularly passionate about **Java programming** and have a foundation in multiple programming languages and web technologies.
-
-## Education
-
-**Bachelor of Engineering — Computer Science & Engineering**  
-Karavali Institute of Technology  
-7th Semester  
-**CGPA:** ~7.5
-
-## Technical Skills
-
-- **Java** — Strong interest and project experience.
-- **C#** — Foundational knowledge.
-- **Python** — Basic knowledge.
-- **HTML** — Web development fundamentals.
-- **CSS** — Web styling fundamentals.
-- **JavaScript** — Basic knowledge.
-- **AWS** — Fundamental cloud computing knowledge.
-
-## Certifications
-
-- **AWS for Beginners**
-- **Introduction to Machine Learning**
-- **Foundational C#** — Microsoft Verified via freeCodeCamp
-
-## Projects
-
-### Java Calculator Mini Project
-
-A desktop calculator application developed using **Java AWT** and **ActionListener**. The project demonstrates GUI development and event-driven programming concepts in Java.
-
-**Project Repository:**  
-https://github.com/raotushar05-star/java-calculator-mini-project
-
-## Contact
-
-- **Email:** rao.tushar05@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/tushar-rao-31710432b/
-
-## Resume
-
-This repository contains the resume associated with the profile above, including academic details, technical skills, certifications, project information, and contact details.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-800020?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-800020?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
 
 ---
 
-### Profile Summary
+## 👋 About Me
 
-**Computer Science & Engineering Student | Java Enthusiast | AWS Fundamentals | Machine Learning Interest**
+🎓 I am a **Computer Science & Engineering student** pursuing my Bachelor of Engineering at **Karavali Institute of Technology**.
+
+☕ I have a strong interest in **Java programming** and enjoy building practical applications while strengthening my programming and software development skills.
+
+☁️ I am expanding my knowledge of **AWS Cloud Computing** and exploring the fundamentals of **Machine Learning**.
+
+🌐 I also have a foundation in **HTML, CSS, and JavaScript** and enjoy exploring web development.
+
+🚀 I am continuously learning, building projects, and improving my problem-solving and development skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+`Java` `C#` `Python` `JavaScript`
+
+### 🌐 Web
+`HTML` `CSS`
+
+### ☁️ Cloud & Other Technologies
+`AWS Fundamentals` `Machine Learning Fundamentals`
+
+---
+
+## 📚 Certifications & Learning
+
+| 📜 Course / Certification | 🏢 Platform / Organization |
+| --- | --- |
+| ☁️ AWS for Beginners | AWS |
+| 🤖 Introduction to Machine Learning | — |
+| 💻 Foundational C# | freeCodeCamp — Microsoft Verified |
+| ☕ Java Course | Intellipaat |
+
+---
+
+## 🚀 Featured Project
+
+### 🧮 Java Calculator Mini Project
+
+A desktop calculator application developed using **Java AWT** and **ActionListener**.
+
+**Highlights:**
+- ☕ Java GUI development using AWT
+- 🖱️ Event-driven programming using `ActionListener`
+- 🧩 Practical Java programming
+- 🖥️ Desktop application development
+
+🔗 **Repository:**  
+https://github.com/raotushar05-star/java-calculator-mini-project
+
+---
+
+## 🎯 Currently Learning
+
+```text
+☕ Java & Object-Oriented Programming
+        ↓
+🧩 Data Structures & Problem Solving
+        ↓
+☁️ AWS & Cloud Computing
+        ↓
+🌐 Web Development
+        ↓
+🤖 Machine Learning Fundamentals
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raotushar05-star&show_icons=true&hide_border=true&title_color=800020&icon_color=800020&text_color=555555&bg_color=ffffff" alt="GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raotushar05-star&layout=compact&hide_border=true&title_color=800020&text_color=555555&bg_color=ffffff" alt="Top languages">
+</p>
+
+---
+
+## 🌱 Goals
+
+- 💻 Build more practical software projects.
+- ☕ Strengthen Java and object-oriented programming skills.
+- 🧠 Improve data structures and problem-solving abilities.
+- ☁️ Develop stronger cloud computing knowledge.
+- 🚀 Create projects that demonstrate real-world technical skills.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:rao.tushar05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-rao-31710432b/">
+    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/raotushar05-star">
+    <img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🍷 Building • Learning • Improving • Creating</b>
+</p>

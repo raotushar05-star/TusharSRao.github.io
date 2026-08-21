@@ -86,11 +86,13 @@ https://github.com/raotushar05-star/java-calculator-mini-project
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raotushar05-star&show_icons=true&hide_border=true&title_color=800020&icon_color=800020&text_color=555555&bg_color=ffffff" alt="GitHub statistics">
-</p>
+  <a href="https://github.com/raotushar05-star">
+    <img src="https://img.shields.io/badge/GitHub-raotushar05--star-800020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raotushar05-star&layout=compact&hide_border=true&title_color=800020&text_color=555555&bg_color=ffffff" alt="Top languages">
+  <a href="https://github.com/raotushar05-star?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-800020?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
+  </a>
 </p>
 
 ---

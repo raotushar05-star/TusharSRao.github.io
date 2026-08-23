@@ -1,6 +1,4 @@
-# 👨‍💻 Computer Science Student & Developer
-
-### 💻 Computer Science & Engineering Student | ☕ Java Developer | ☁️ Cloud & ML Enthusiast
+# 💻 Computer Science & Engineering Student | ☕ Java Developer | ☁️ Cloud & ML Enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white">

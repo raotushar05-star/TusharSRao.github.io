@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/C%23-800020?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-800020?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 ---

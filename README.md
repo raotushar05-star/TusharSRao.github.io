@@ -107,5 +107,5 @@ https://github.com/raotushar05-star/java-calculator-mini-project
 ---
 
 <p align="center">
-  <b>🍷 Building • Learning • Improving • Creating</b>
+  <b>Building • Learning • Improving • Creating</b>
 </p>

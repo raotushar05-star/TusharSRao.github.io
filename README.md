@@ -1,4 +1,4 @@
-# 🍷 Tushar Rao
+# 👨‍💻 Computer Science Student & Developer
 
 ### 💻 Computer Science & Engineering Student | ☕ Java Developer | ☁️ Cloud & ML Enthusiast
 
@@ -43,8 +43,8 @@
 
 | 📜 Course / Certification | 🏢 Platform / Organization |
 | --- | --- |
-| ☁️ AWS for Beginners | AWS |
-| 🤖 Introduction to Machine Learning | — |
+| ☁️ AWS for Beginners | GreatLearning |
+| 🤖 Introduction to Machine Learning | GreatLearning |
 | 💻 Foundational C# | freeCodeCamp — Microsoft Verified |
 | ☕ Java Course | Intellipaat |
 
@@ -80,20 +80,6 @@ https://github.com/raotushar05-star/java-calculator-mini-project
         ↓
 🤖 Machine Learning Fundamentals
 ```
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/raotushar05-star">
-    <img src="https://img.shields.io/badge/GitHub-raotushar05--star-800020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-  </a>
-
-  <a href="https://github.com/raotushar05-star?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-800020?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
-  </a>
-</p>
 
 ---
 

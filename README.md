@@ -47,7 +47,53 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🚨 Digital Lost & Found Network — *In Progress*
+
+A **police-assisted digital lost-and-found platform** being developed to provide a structured and accountable way to report, discover, verify, and recover lost property.
+
+**Project Highlights:**
+
+* 🔎 **Lost & Found Reporting:** Provides structured workflows for users to report lost or found items with relevant details and evidence.
+* 📍 **Location-Based Records:** Associates reports with discovery or loss locations to provide useful contextual information during recovery.
+* 📸 **Evidence Collection:** Supports photographs and other item information to improve identification and verification.
+* 🔐 **Identity & Verification:** Includes mechanisms for verifying users, ownership claims, and item-recovery requests.
+* 👮 **Police-Assisted Workflow:** Incorporates authorized police involvement for verification, dispute handling, and recovery-related processes.
+* 🧾 **Audit Trail:** Maintains records of important actions and verification events to provide accountability throughout the recovery process.
+* 🗄️ **Database-Driven Architecture:** Uses structured data models to manage users, lost-item reports, found-item reports, verification records, and related workflows.
+* 🌐 **Full-Stack Development:** The project is being developed as a web-based system with separate frontend, backend, database, and authentication components.
+* 🛡️ **Security & Access Control:** Role-based access is being designed to differentiate capabilities between citizens, authorities, and administrators.
+
+**Technology Stack:**
+`Java` `Spring Boot` `React` `PostgreSQL` `REST API` `JWT Authentication` `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**
+https://github.com/raotushar05-star/Digital-Lost-and-Found
+
+> **Status:** 🚧 Active Development — Features, workflows, security, and system integration are currently being implemented.
+
+### 🚨 Disaster Relief Resource Locator-*In Progress*
+
+A **Python Django-based full-stack web application** designed to provide a centralized platform for accessing and managing disaster-relief resources.
+
+**Highlights:**
+
+* 🐍 Backend development using **Python and Django**
+* 🌐 Dynamic web application using **HTML, CSS, and JavaScript**
+* 🗄️ Database-driven application using **Django models**
+* 🔐 User-oriented web functionality and application flow
+* 🧩 Django **views, URL routing, templates, and models**
+* 🚨 Designed around the practical problem of **locating disaster-relief resources**
+* 🛠️ Extended and customized an existing disaster-management project as a learning and development project
+
+**Tech Stack:**
+`Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
+
+🔗 **Repository:**
+[Add your Disaster Management System repository link here]
+
+> **Status:** 🚧 Active Development — Additional features, workflows, and system integration are currently being implemented.
 
 ### 🧮 Java Calculator Mini Project
 
